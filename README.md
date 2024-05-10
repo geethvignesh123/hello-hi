@@ -1,1 +1,10 @@
-# hello-hi
+print("hello ")
+# output ("hello ")
+print("good moring")
+# output ("good morning")
+# output (" how can i help you")
+print("i need the information about apple 10th generation")
+# output("yes sure one sec")
+# output(" Liquid Retina display the iPad display has rounded corners. When measured diagonally as a rectangle, the iPad is 27.58 cm (10.86″). Actual viewable area is less. Pair and charge Apple Pencil (1st generation) using USB‑C to Apple Pencil Adapter.")
+print(" thank u sir")
+# output ("thank u sir have a nice day")
